@@ -16,7 +16,7 @@
 
 -> E por fim, também é apresentado uma lista de todos os lugares ocupados e um gráfico dos diferentes tipos de classe do teatro. 
 
-❗️ A atividade foi desenvolvido em equipe, juntamente com: ❗️
+❗️ O projeto foi desenvolvido em equipe, juntamente com: ❗️
 
 👦🏻 Adryan Alexander: @AlexSanderXDZ
 
